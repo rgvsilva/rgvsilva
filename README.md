@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a seasoned DevOps Tech Lead with extensive han
 ## 🏢 Professional Experience
 
 ### Kaltura Ltd., Ramat Gan, Israel
-**Senior Systems Engineer, Professional Services / DevOps Tech Lead, Platform**  
+**Senior Systems Engineer, Professional Services / DevOps Tech Lead, Platform / DevOps Team Leader, Backend SaaS, Product & Platform**  
 *August 2019 – Present*  
 - Leading Kaltura VPaaS installation, integration, maintenance, custom development, support, and administration.
 - Providing technical training and interfacing with multiple departments to achieve customer goals.
