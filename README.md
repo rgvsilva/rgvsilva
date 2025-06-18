@@ -71,5 +71,5 @@ Welcome to my GitHub profile! I'm a seasoned DevOps Tech Lead with extensive han
 - **English:** Bilingual proficiency
 - **Hebrew:** Full professional proficiency
 - **Spanish:** Full professional proficiency
+- **Italian:** Intermediate level
 - **German:** Entry level
-- **Italian:** Entry level
